@@ -21,10 +21,12 @@ namespace Automobile
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SqlConnection connection = new SqlConnection(@"Data Source=DESKTOP-FUHUEFM\SQLEXPRESS;Initial Catalog=Automobile;Integrated Security=True");
-            connection.Open();
-            string selectAll = "select * from Automobile";
-            SqlCommand cmd = new SqlCommand(selectAll, connection);
+            ClearColumns();
+            DataBase.openConnection();
+            
+            string selectAll = "select * from Automobile order by Pretul";
+            SqlCommand cmd = new SqlCommand(selectAll, DataBase.getConnection());
+
         
             SqlDataAdapter adapter = new SqlDataAdapter(cmd);
             DataTable dtbl = new DataTable();
@@ -37,6 +39,10 @@ namespace Automobile
         {
             this.Close();
             DataBase.closeConnection();
+        }
+        private void ClearColumns()
+        {
+            dataGridView1.Columns.Clear();
         }
         private void CreateColumns()
         {
@@ -124,9 +130,9 @@ namespace Automobile
 
         private void button4_Click(object sender, EventArgs e)
         {
-            SqlConnection connection = new SqlConnection(@"Data Source=DESKTOP-FUHUEFM\SQLEXPRESS;Initial Catalog=Automobile;Integrated Security=True");
-            
-            connection.Open();
+
+
+            DataBase.openConnection();
             int id;
             string selectAll = $"select * from Automobile where id_automobil in (";
             for (int i = 0; i < cos.Count; ++i)
@@ -141,7 +147,7 @@ namespace Automobile
                 }
             }
 
-            SqlCommand cmd = new SqlCommand(selectAll, connection);
+            SqlCommand cmd = new SqlCommand(selectAll, DataBase.getConnection());
             SqlDataAdapter adapter = new SqlDataAdapter(cmd);
             DataTable table = new DataTable();
             adapter.Fill(table);
