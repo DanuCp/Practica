@@ -1,0 +1,155 @@
+C:\Users\User\Desktop\Student\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Student\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Form2.resources
+C:\Users\User\Desktop\Student\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Student\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Student\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Student\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfo.cs
+C:\Users\User\Desktop\Student\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.exe
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.deps.json
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.json
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Inregistrare.resources
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Logare.resources
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CopyComplete
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AppClient.resources
+C:\Users\PC\Desktop\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Properties.Resources.resources
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.exe
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.deps.json
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.json
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.dev.json
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AppClient.resources
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Inregistrare.resources
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Logare.resources
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Properties.Resources.resources
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfo.cs
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CopyComplete
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.genruntimeconfig.cache
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.exe
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.deps.json
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.json
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.dev.json
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AppClient.resources
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Inregistrare.resources
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Logare.resources
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Properties.Resources.resources
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfo.cs
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CopyComplete
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.genruntimeconfig.cache
+C:\Users\User\Desktop\Student\Ceapa Danu]\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AppAdmin.resources
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.exe
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.deps.json
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.json
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.dev.json
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AppAdmin.resources
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AppClient.resources
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Inregistrare.resources
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Logare.resources
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Properties.Resources.resources
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfo.cs
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CopyComplete
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.genruntimeconfig.cache
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\User\Desktop\Student\Ceapa\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AppAdmin.resources
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.exe
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.deps.json
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.json
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AppAdmin.resources
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AppClient.resources
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Inregistrare.resources
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Logare.resources
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Ordonare1.resources
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Properties.Resources.resources
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CopyComplete
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.genruntimeconfig.cache
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AutoNew.resources
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Stergere.resources
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AutoNew.resources
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Ordonare1.resources
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Stergere.resources
+C:\Users\User\Desktop\Student\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Adaugare.resources
+C:\Users\PC\Desktop\Ceapa Danu\Ceapa-Danu-P1932\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.Adaugare.resources
